@@ -1,1 +1,0 @@
-# Js-Gerador-de-senhas
